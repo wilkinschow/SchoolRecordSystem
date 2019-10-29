@@ -2,7 +2,7 @@
 
 **Start api server**
 - Download this project zip.
-- Open folder in VS Code.
+- Open 'SchoolRecordSystem' folder in VS Code.
 - Install dependencies: type 'npm install' in VSC terminal.
 - Type 'npm start' to begin hosting.
 
